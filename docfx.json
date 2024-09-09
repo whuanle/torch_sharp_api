@@ -3,9 +3,9 @@
     {
       "src": [
         {
-          "src": "../src",
+          "src": "TorchSharp",
           "files": [
-            "**/*.csproj"
+            "src/TorchSharp/*.csproj"
           ]
         }
       ],

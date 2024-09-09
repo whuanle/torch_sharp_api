@@ -1,6 +1,3 @@
-[submodule "src/TorchSharp"]
-	path = src/TorchSharp
-	url = https://github.com/dotnet/TorchSharp.git
 [submodule "TorchSharp"]
 	path = TorchSharp
 	url = https://github.com/dotnet/TorchSharp.git

@@ -5,7 +5,7 @@
         {
           "src": "TorchSharp",
           "files": [
-            "src/TorchSharp/*.csproj"
+            "bin/AnyCPU.Debug/TorchSharp/net6.0/**.dll"
           ]
         }
       ],
